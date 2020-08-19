@@ -1,5 +1,5 @@
 #Version 4 11/28/2018
-#jmf4e.pl [path to fasta file that would be the database] [path to datasets containing folder] [path to results directory that would be created] [mapper to be used: smalt or hisat2]
+#jmf4.pl [path to fasta file that would be the database] [path to datasets containing folder] [path to results directory that would be created] [mapper to be used: smalt or hisat2]
 
 #$ARGV[0]= database fasta file, complete path
 #$ARGV[1]= path to folder with datasets
